@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.pattern-dots {
+  background-image: radial-gradient(#cbd5e1 1px, transparent 1px);
+  background-size: 16px 16px;
+}
