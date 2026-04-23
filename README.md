@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Screenlogo
 
-# Run and deploy your AI Studio app
+Tool for creating branded app screenshots and logo visuals for launch materials and marketing assets.
 
-This contains everything you need to run your app locally.
+## Overview
 
-View your app in AI Studio: https://ai.studio/apps/8988768c-c880-45fb-a385-c3b62c7c01d9
+Screenlogo is designed to help create polished screen-based visuals for app promotion, presentation materials, and digital branding.
 
-## Run Locally
+It supports the kind of visual content needed for app launches, showcase pages, and marketing workflows.
 
-**Prerequisites:**  Node.js
+## Features
 
+- App screenshot support
+- Branding-oriented visual output
+- Useful for launch materials
+- Designed for creators, app builders, and product marketing
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+
+- TypeScript
+- JavaScript
+- Vite
+- Frontend web app tooling
+
+## Status
+
+Public showcase / prototype
+
+## Notes
+
+This repository is shared as a public showcase of the project structure and concept. Full production assets, deployment settings, and private configuration are not included.
